@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tokenstakepool
 - 👀 I’m interested in cryptocurrencies.
 - 🌱 I’m currently learning Cardano DeFi
-- 💞️ I’m looking to collaborate token distribution.
+- 💞️ I’m looking to collaborate on token distributions.
 - 📫 You can reach me at operator@token.stakepool.cc
 
 <!---
