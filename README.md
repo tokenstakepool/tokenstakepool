@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tokenstakepool
 - 👀 I’m interested in cryptocurrencies and pixel art.
 - 🌱 I’m currently learning decentralized financial infrastructure on Cardano.
-- 💞️ I’m looking to collaborate on fungible and non-fungible tokens.
+- ⚡ I’m looking to collaborate on fungible and non-fungible tokens.
 - 📫 You can reach me at operator@token.stakepool.cc
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/token_stakepool?style=social)
