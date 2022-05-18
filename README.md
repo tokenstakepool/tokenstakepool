@@ -1,5 +1,3 @@
-[![Social banner for TOKEN](https://github.com/tokenstakepool/raw/master/assets/header-banner--optimized.svg)](https://token.stakepool.cc)
-
 - 👋 Hi, I’m @tokenstakepool
 - 👀 I’m interested in cryptocurrencies and pixel art.
 - 🌱 I’m currently learning about decentralized financial infrastructure on Cardano.
