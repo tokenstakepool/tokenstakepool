@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tokenstakepool
-- :robot: Experienced in machine learning, deep learning, reinforcement learning, robotics, computer vision and electronics.
+- :robot: Interests: Learning algorithms (ML, DL, RL), robotics, computer vision, Linux and electronics.
 - 🌱 I’m currently learning how to migrate Token Stake Pool from the cloud to an ARM bare metal setup.
 - ⚡ Open for collaborations on fungible, non-fungible tokens and Cardano stake pool alliances.
 - 📫 Email: operator at token.stakepool.cc
