@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tokenstakepool
-- 👀 I’m interested in cryptocurrencies, machine learning, deep learning, reinforcement learning, electronics and pixel art.
-- 🌱 I’m currently learning how to migrate the stake pool from the cloud to an ARM bare metal setup.
-- ⚡ I’m looking to collaborate on fungible, non-fungible tokens and Cardano stake pool alliances.
+- 👀 I’m interested in cryptocurrencies, machine learning, deep learning, reinforcement learning, robotics, computer vision, electronics and pixel art.
+- 🌱 I’m currently learning how to migrate Token Stake Pool from the cloud to an ARM bare metal setup.
+- ⚡ I’m open for collaborations on fungible, non-fungible tokens and Cardano stake pool alliances.
 - 📫 Email: operator at token.stakepool.cc
 
 > :chains: Cardano Mainnet. Token Stake Pool | Ticker: TOKEN
