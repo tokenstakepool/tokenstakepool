@@ -5,7 +5,9 @@
 - 📫 Email: operator at token.stakepool.cc
 
 > :chains: Cardano Mainnet. Token Stake Pool | Ticker: TOKEN
+
 > 💹fungible $TOKEN distribution at Dripdropz 💧
+
 > Listed on Adapools, Pool.pm, Muesliswap, Cardanoassets, Sundaewap and Minswap.
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/token_stakepool?style=social)
