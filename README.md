@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @tokenstakepool
-- :chains: Cardano Mainnet blockchain. Token Stake Pool, ticker: TOKEN ¬¬ non-fungible $TOKEN distribution at Dripdropz.
 - 👀 I’m interested in cryptocurrencies, machine learning, deep learning, reinforcement learning, electronics and pixel art.
 - 🌱 I’m currently learning how to migrate the stake pool from the cloud to an ARM bare metal setup.
 - ⚡ I’m looking to collaborate on fungible, non-fungible tokens and Cardano stake pool alliances.
@@ -7,6 +6,9 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/token_stakepool?style=social)
 
+- :chains: Cardano Mainnet. Token Stake Pool | Ticker: TOKEN
+- 💹fungible $TOKEN distribution at Dripdropz 💧
+- Listed on Adapools, Pool.pm, Muesliswap, Cardanoassets, Sundaewap and Minswap.
 
 <!---
 tokenstakepool/tokenstakepool is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
