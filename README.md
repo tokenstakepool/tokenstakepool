@@ -4,7 +4,7 @@
 - ⚡ I’m looking to collaborate on fungible, non-fungible tokens and Cardano stake pool alliances.
 - 📫 Email: operator at token.stakepool.cc
 
-![Twitter Follow](https://img.shields.io/twitter/follow/token_stakepool?style=social)
+                                ![Twitter Follow](https://img.shields.io/twitter/follow/token_stakepool?style=social)
 
 - :chains: Cardano Mainnet. Token Stake Pool | Ticker: TOKEN
 - 💹fungible $TOKEN distribution at Dripdropz 💧
