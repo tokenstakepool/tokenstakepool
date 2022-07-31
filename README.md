@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tokenstakepool
 - :robot: Interests: AI, learning algorithms (ML, DL, RL), robotics, computer vision, Linux and electronics.
-- 🌱 I’m currently learning how to migrate Token Stake Pool from the cloud to an ARM bare metal setup.
+- 🌱 Currently migrating Token Stake Pool to an ARM bare metal setup (87/100).
 - ⚡ Open for collaborations on fungible, non-fungible tokens and Cardano stake pool alliances.
 - 📫 Email: operator at token.stakepool.cc
 
