@@ -5,6 +5,7 @@
 - 📫 Email: operator at token.stakepool.cc
 
 > :chains: Cardano Mainnet. Token Stake Pool | Ticker: TOKEN
+> 🚢Member of the [Armada Alliance](https://armada-alliance.com/stake-pools/1e5f4eebc56a6726fd36af2f870b3bd62b204f3cd1b36e32e8a56737)
 
 > 💹 fungible $TOKEN distribution at [Dripdropz](https://dripdropz.io/explore-projects/TOKEN) 💧 and [SEAL VM](https://vm.adaseal.eu/tokens) 🦭
 
