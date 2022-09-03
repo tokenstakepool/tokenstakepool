@@ -11,7 +11,7 @@
 > 💹 fungible $TOKEN distribution at [Dripdropz](https://dripdropz.io/explore-projects/TOKEN) 💧 and [SEAL VM](https://vm.adaseal.eu/tokens) 🦭
 
 
-> Listed on [Adapools](https://cexplorer.io/pool/pool1re05a679dfnjdlfk4uhcwzem6c4jqneu6xekuvhg54nnwuat2pf), [Pool.pm](https://pool.pm/1e5f4eebc56a6726fd36af2f870b3bd62b204f3cd1b36e32e8a56737), [Muesliswap](https://ada.muesliswap.com/swap/community/token/0171c997b8853fde686763d93b36ab8e04ce947bb6aa09a9ee5c4401.TOKEN), [Cardanoassets](https://cardanoassets.com/asset1pt3mfphgttc4pdrcrgf3w8e8j99nedsm34k85p), [SundaeSwap](https://exchange.sundaeswap.finance/#/swap?swap_from=0171c997b8853fde686763d93b36ab8e04ce947bb6aa09a9ee5c4401.544f4b454e&swap_to=cardano.ada) and [Minswap](https://minswap.org/)
+> Listed on [Adapools/Cexplorer](https://cexplorer.io/pool/pool1re05a679dfnjdlfk4uhcwzem6c4jqneu6xekuvhg54nnwuat2pf), [Pool.pm](https://pool.pm/1e5f4eebc56a6726fd36af2f870b3bd62b204f3cd1b36e32e8a56737), [Muesliswap](https://ada.muesliswap.com/swap/community/token/0171c997b8853fde686763d93b36ab8e04ce947bb6aa09a9ee5c4401.TOKEN), [Cardanoassets](https://cardanoassets.com/asset1pt3mfphgttc4pdrcrgf3w8e8j99nedsm34k85p), [SundaeSwap](https://exchange.sundaeswap.finance/#/swap?swap_from=0171c997b8853fde686763d93b36ab8e04ce947bb6aa09a9ee5c4401.544f4b454e&swap_to=cardano.ada) and [Minswap](https://minswap.org/)
 
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/token_stakepool?style=social)
